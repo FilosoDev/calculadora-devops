@@ -1,0 +1,14 @@
+C:\Users\SN1067709\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.exe
+C:\Users\SN1067709\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.deps.json
+C:\Users\SN1067709\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.runtimeconfig.json
+C:\Users\SN1067709\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.dll
+C:\Users\SN1067709\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.pdb
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.AssemblyInfoInputs.cache
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.AssemblyInfo.cs
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.dll
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\refint\CalculadoraConsole.dll
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.pdb
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.genruntimeconfig.cache
+C:\Users\SN1067709\CalculadoraConsole\obj\Debug\net8.0\ref\CalculadoraConsole.dll
